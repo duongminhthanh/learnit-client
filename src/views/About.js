@@ -13,6 +13,7 @@ const About = () => {
 				>
 					Click here to contact me
 				</Button>
+				<br></br>
 				<Button
 					variant='primary'
 					href='https://www.facebook.com/hachoahoaha'
