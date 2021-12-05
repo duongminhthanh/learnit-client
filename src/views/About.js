@@ -6,13 +6,14 @@ const About = () => {
 	return (
 		<Row className='mt-5' style={{ marginRight: 0 }}>
 			<Col className='text-center'>
-				<Button
+				<Button>
 					variant='primary'
-					href='https://www.youtube.com/c/HenryWebDev'
+					href='https://www.facebook.com/minhthanh.duong.5686/'
 					size='lg'
-				>
-					Visit my channel for more tutorials
+				
+					Contact 
 				</Button>
+
 			</Col>
 		</Row>
 	)
