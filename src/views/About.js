@@ -11,7 +11,7 @@ const About = () => {
 					href='https://www.facebook.com/minhthanh.duong.5686/'
 					size='lg'
 				>
-					Contact
+					Contact me
 				</Button>
 				<br></br>
 				<br></br>
@@ -20,7 +20,7 @@ const About = () => {
 					href='https://www.facebook.com/profile.php?id=100018546489429'
 					size='lg'
 				>
-					Contact
+					Contact my friend
 				</Button>
 			</Col>
 		</Row>
